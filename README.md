@@ -2,8 +2,9 @@
 This is a list of interesting and useful links to articles, blog posts, repos, books and courses.
 
 * ## Neural Networks
-  * ### Deep Learning with Keras by ![deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
-  https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL
+  * ### Keras
+   * Deep Learning with Keras by ![deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
+https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL
 
 * ## Time series
   * ### Correlation
