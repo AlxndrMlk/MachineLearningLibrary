@@ -9,6 +9,8 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
 * ## Time series
   * ### Correlation
     * An article about correlations in time series. Should we correlate prices or returns? Or maybe none of them?
-https://quantdare.com/correlation-prices-returns/
+    <br>https://quantdare.com/correlation-prices-returns/
+    * A nice source of examples of spurious correlations
+    <br>http://www.tylervigen.com/spurious-correlations
   * ### Decomposition
     * https://quantdare.com/decomposition-to-improve-time-series-prediction/
