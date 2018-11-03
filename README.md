@@ -3,7 +3,7 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
 
 * ## Ensemble Methods
   * ### XGBoost
-    * [ARTICLE] A nice in-depth article on XGBoost 
+    * [ARTICLE] A nice in-depth article on XGBoost by Didrik Nielsen
     <br>https://brage.bibsys.no/xmlui/bitstream/handle/11250/2433761/16128_FULLTEXT.pdf
 
 * ## Hyperparameters Tuning 
