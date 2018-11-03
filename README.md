@@ -1,6 +1,6 @@
 # Machine Learning Library
 This is a list of interesting and useful links to articles, blog posts, repos, books and courses.
-
+ 
 * ## Hyperparameters Tuning 
   * ### Bayesian Optimization
     * [ARTICLE] Bergstra et al. (2011) - ![Algorithms for Hyper-Parameter Optimization](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization.pdf)
@@ -28,3 +28,7 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     
   * ### Decomposition
     * [BLOG POST] https://quantdare.com/decomposition-to-improve-time-series-prediction/
+
+* ## [Additional resources / helpers]
+  * ### Markdown / LaTeX
+    * [APP] ![Detextify](http://detexify.kirelabs.org/classify.html) Pretty useful app that recognizes handwritten symbols and gives you LaTeX code. So nice! <3
