@@ -1,6 +1,11 @@
 # Machine Learning Library
 This is a list of interesting and useful links to articles, blog posts, repos, books and courses.
- 
+
+* ## Ensemble Methods
+  * ### XGBoost
+    * [ARTICLE] A nice in-depth article on XGBoost 
+    <br>https://brage.bibsys.no/xmlui/bitstream/handle/11250/2433761/16128_FULLTEXT.pdf
+
 * ## Hyperparameters Tuning 
   * ### Bayesian Optimization
     * [ARTICLE] Bergstra et al. (2011) - ![Algorithms for Hyper-Parameter Optimization](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization.pdf)
