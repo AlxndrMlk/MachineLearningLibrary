@@ -3,7 +3,7 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
 
 * ## Hyperparameters Tuning 
   * ### Bayesian Optimization
-    * [ARTICLE] ![A classic work on **automated hyperparameter** tuning by Bergstra et al. (2013)](http://proceedings.mlr.press/v28/bergstra13.pdf)
+    * [ARTICLE] A classic work on **automated hyperparameter** tuning by ![Bergstra et al. (2013)](http://proceedings.mlr.press/v28/bergstra13.pdf)
     * [BLOG POST] Bayesian hyperparameter tuning in **Python**
     <br> https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a
 
