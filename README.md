@@ -4,8 +4,7 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
 * ## Hyperparameters Tuning 
   * ### Bayesian Optimization
     * [ARTICLE] Bergstra et al. (2011) - ![Algorithms for Hyper-Parameter Optimization](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization.pdf)
-    * [ARTICLE] Bergstra et al. (2013) - ![Making a Science of Model Search: Hyperparameter Optimization
-in Hundreds of Dimensions for Vision Architectures](http://proceedings.mlr.press/v28/bergstra13.pdf)
+    * [ARTICLE] Bergstra et al. (2013) - ![Making a Science of Model Search](http://proceedings.mlr.press/v28/bergstra13.pdf)
     * [BLOG POST] Bayesian hyperparameter tuning in **Python**
     <br> https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a
 
