@@ -14,6 +14,11 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     
     * [BLOG POST] Bayesian hyperparameter tuning in **Python**
     <br> https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a
+    
+* ## Math for ML/DS
+  * ### Matrix Calculus
+    * [PAPER / ARTICLE] **Matrix Calculus** explained
+    <br>https://explained.ai/matrix-calculus/index.html
 
 * ## Neural Networks
   * ### Keras
