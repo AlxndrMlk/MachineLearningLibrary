@@ -23,6 +23,16 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
   * ### Matrix Calculus
     * [PAPER / ARTICLE] **Matrix Calculus** explained
     <br>https://explained.ai/matrix-calculus/index.html
+    
+* ## Natural Language Processing
+  * ### String Search
+    * [BLOG POST] Fuzzy string search
+    <br>http://ntz-develop.blogspot.com/2011/03/fuzzy-string-search.html
+    
+    * [BLOG POST] Sorted Neighbourhood indexing
+    <br>http://networkslab.org/2017/07/18/2017-07-18-neighbourhood/
+    
+    * [PACKAGE] ![recordlinkage](https://recordlinkage.readthedocs.io/en/latest/ref-index.html) - a **Python package** for finding **candidate matches**
 
 * ## Neural Networks
   * ### Keras
@@ -31,11 +41,6 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     
     * [COURSE] **LSTM**s with Keras
     <br>https://machinelearningmastery.com/long-short-term-memory-recurrent-neural-networks-mini-course/
-    
-* ## Natural Language Processing
-  * ### String Search
-    * [BLOG POST] Fuzzy string search
-    <br>http://ntz-develop.blogspot.com/2011/03/fuzzy-string-search.html
 
 * ## Time series
   * ### Correlation
