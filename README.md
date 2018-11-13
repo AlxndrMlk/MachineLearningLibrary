@@ -3,7 +3,7 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
 
 * ## Data Prep
   * ### Extraction
-    * [PACKAGE] ![tidyextractors](https://tidyextractors.readthedocs.io/en/latest/) - an interesting **Python** package for extracting data from multiple sources and converting it to the **tidy** format. Created by University of Waterloo ![team](http://networkslab.org/project/tidyextractors/)
+    * [PACKAGE] ![tidyextractors](https://tidyextractors.readthedocs.io/en/latest/) - an interesting **Python package** for extracting data from multiple sources and converting it to the **tidy format**. Created by University of Waterloo ![team](http://networkslab.org/project/tidyextractors/)
 
 * ## Ensemble Methods
   * ### XGBoost
@@ -26,10 +26,10 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     
 * ## Natural Language Processing
   * ### String Search
-    * [BLOG POST] Fuzzy string search
+    * [BLOG POST] **Fuzzy string search**
     <br>http://ntz-develop.blogspot.com/2011/03/fuzzy-string-search.html
     
-    * [BLOG POST] Sorted Neighbourhood indexing
+    * [BLOG POST] **Sorted Neighbourhood indexing**
     <br>http://networkslab.org/2017/07/18/2017-07-18-neighbourhood/
     
     * [PACKAGE] ![recordlinkage](https://recordlinkage.readthedocs.io/en/latest/ref-index.html) - a **Python package** for finding **candidate matches**
