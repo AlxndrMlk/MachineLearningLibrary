@@ -27,6 +27,11 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     
     * [COURSE] **LSTM**s with Keras
     <br>https://machinelearningmastery.com/long-short-term-memory-recurrent-neural-networks-mini-course/
+    
+* ## Natural Language Processing
+  * ### String Search
+    * [BLOG POST] Fuzzy string search
+    <br>http://ntz-develop.blogspot.com/2011/03/fuzzy-string-search.html
 
 * ## Time series
   * ### Correlation
