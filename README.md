@@ -1,7 +1,7 @@
 # Machine Learning Library
 This is a list of interesting and useful links to articles, blog posts, repos, books and courses.
 
-* ## Data Prep
+* ## Data Preparation
   * ### Extraction
     * [PACKAGE] ![tidyextractors](https://tidyextractors.readthedocs.io/en/latest/) - an interesting **Python package** for extracting data from multiple sources and converting it to the **tidy format**. Created by University of Waterloo ![team](http://networkslab.org/project/tidyextractors/)
 
