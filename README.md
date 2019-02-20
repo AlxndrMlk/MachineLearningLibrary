@@ -41,6 +41,9 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     
     * [COURSE] **LSTM**s with Keras
     <br>https://machinelearningmastery.com/long-short-term-memory-recurrent-neural-networks-mini-course/
+    
+    * [BLOG POST] **Xavier Initialization**
+    <br>https://prateekvjoshi.com/2016/03/29/understanding-xavier-initialization-in-deep-neural-networks/
 
 * ## Time series
   * ### Correlation
