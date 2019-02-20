@@ -43,6 +43,9 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     * [PLAYLIST] Deep Learning with Keras incl. **CNN**s by ![deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
     <br>https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL
     
+    * [REPO] **GAN** implementations in **Keras**
+    <br>https://github.com/eriklindernoren/Keras-GAN
+    
     * [COURSE] **LSTM**s with Keras by ![deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
     <br>https://machinelearningmastery.com/long-short-term-memory-recurrent-neural-networks-mini-course/
     
