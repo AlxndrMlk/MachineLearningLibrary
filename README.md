@@ -35,6 +35,10 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     * [PACKAGE] ![recordlinkage](https://recordlinkage.readthedocs.io/en/latest/ref-index.html) - a **Python package** for finding **candidate matches**
 
 * ## Neural Networks
+  * ### General
+    * [BLOG POST] **Xavier Initialization**
+    <br>https://prateekvjoshi.com/2016/03/29/understanding-xavier-initialization-in-deep-neural-networks/
+  
   * ### Keras
     * [PLAYLIST] Deep Learning with Keras incl. **CNN**s by ![deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
     <br>https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL
@@ -42,8 +46,10 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     * [COURSE] **LSTM**s with Keras
     <br>https://machinelearningmastery.com/long-short-term-memory-recurrent-neural-networks-mini-course/
     
-    * [BLOG POST] **Xavier Initialization**
-    <br>https://prateekvjoshi.com/2016/03/29/understanding-xavier-initialization-in-deep-neural-networks/
+  * ### PyTorch
+    * [PLAYLIST] PyTorch basics
+    <br>https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
+    
 
 * ## Time series
   * ### Correlation
