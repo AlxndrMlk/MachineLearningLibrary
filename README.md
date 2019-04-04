@@ -33,7 +33,9 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     <br>http://networkslab.org/2017/07/18/2017-07-18-neighbourhood/
     
     * [PACKAGE] ![recordlinkage](https://recordlinkage.readthedocs.io/en/latest/ref-index.html) - a **Python package** for finding **candidate matches**
-
+  * ### Stopwords
+    * [FILE] Lists of *stopwords* in over 40 languages (![link](https://www.ranks.nl/stopwords))
+  
 * ## Neural Networks
   * ### General
     * [BLOG POST] **Xavier Initialization**
