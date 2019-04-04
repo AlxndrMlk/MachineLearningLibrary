@@ -34,7 +34,7 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     
     * [PACKAGE] ![recordlinkage](https://recordlinkage.readthedocs.io/en/latest/ref-index.html) - a **Python package** for finding **candidate matches**
   * ### Stopwords
-    * [FILE] Lists of *stopwords* in over 40 languages (![link](https://www.ranks.nl/stopwords))
+    * [DATA] Lists of **stopwords** in over 40 languages (![link](https://www.ranks.nl/stopwords))
   
 * ## Neural Networks
   * ### General
