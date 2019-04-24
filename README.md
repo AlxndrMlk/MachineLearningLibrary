@@ -56,7 +56,7 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     <br>https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
     
   * ### Activation Functions 
-    * [BLOG POST] Visualising Activation Functions in Neural Networks by ![David Sheehan](dashee87.github.io)
+    * [BLOG POST] **Visualising Activation Functions** in Neural Networks by ![David Sheehan](https://dashee87.github.io/)
     <br>https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/
 
 * ## Time series
