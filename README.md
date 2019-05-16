@@ -59,6 +59,17 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     * [BLOG POST] **Visualising Activation Functions** in Neural Networks by ![David Sheehan](https://dashee87.github.io/)
     <br>https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/
 
+* ## SVM
+  * ### Probability calibration
+    * [ARTICLE] Using **Platt's method** (sigmoid)
+    <br>http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.1639
+    
+    * [ARTICLE] Using **isotonic regression**
+    <br>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.7457&rep=rep1&type=pdf
+    
+    * [BLOG POST] Practical calibration using `sklearn`
+    <br>https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/
+
 * ## Time series
   * ### Correlation
     * [BLOG POST] An article about correlations in time series. Should we correlate prices or returns? Or maybe none of them?
