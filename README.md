@@ -69,6 +69,9 @@ This is a list of interesting and useful links to articles, blog posts, repos, b
     
     * [BLOG POST] Practical calibration using `sklearn`
     <br>https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/
+    
+    * [DOCS] `sklearn`'s `CalibratedClassifierCV` docs
+    <br>https://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html
 
 * ## Time series
   * ### Correlation
